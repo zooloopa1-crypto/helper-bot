@@ -6,4 +6,6 @@ pytz
 openpyxl
 matplotlib
 flask
+imghdr2
+
 
