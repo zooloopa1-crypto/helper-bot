@@ -1,0 +1,8 @@
+python-telegram-bot==20.6
+pandas
+gspread
+oauth2client
+pytz
+openpyxl
+matplotlib
+flask
